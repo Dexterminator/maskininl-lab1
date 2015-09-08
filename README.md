@@ -1,2 +1,2 @@
 # maskininl-lab1
-Don't peak at this
+Don't peek at this
