@@ -1,0 +1,19 @@
+monk1
+Performance without pruning: 0.8287037037037037
+Pruning performance with fraction 0.3: 0.7720254629629427
+Pruning performance with fraction 0.4: 0.7976064814814648
+Pruning performance with fraction 0.5: 0.8209282407407301
+Pruning performance with fraction 0.6: 0.8377736111111007
+Pruning performance with fraction 0.7: 0.8507349537037033
+Pruning performance with fraction 0.8: 0.8579229166666652
+Best fraction: 0.8: 0.8579229166666652
+
+monk3
+Performance without pruning: 0.9444444444444444
+Pruning performance with fraction 0.3: 0.9144701388889189
+Pruning performance with fraction 0.4: 0.9396069444444914
+Pruning performance with fraction 0.5: 0.9522189814815245
+Pruning performance with fraction 0.6: 0.9575553240741193
+Pruning performance with fraction 0.7: 0.9575143518518952
+Pruning performance with fraction 0.8: 0.9515472222222595
+Best fraction: 0.6: 0.9575553240741193

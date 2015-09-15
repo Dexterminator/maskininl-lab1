@@ -1,6 +1,5 @@
 import monkdata as m
 import dtree as dt
-import drawtree as wat
 
 print("Entropy\n")
 print("Monk1: " + str(dt.entropy(m.monk1)))

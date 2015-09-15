@@ -2,12 +2,12 @@ import monkdata as m
 import dtree as dt
 import random
 
-FRACTIONS = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
-AGGREGATE_TIMES = 1000
+FRACTIONS = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
+AGGREGATE_TIMES = 10000
 
 
 def main():
-    datasets = [('monk1', m.monk1, m.monk1test), ('monk2', m.monk2, m.monk2test), ('monk3', m.monk3, m.monk3test)]
+    datasets = [('monk1', m.monk1, m.monk1test), ('monk3', m.monk3, m.monk3test)]
     for name, training_set, test_set in datasets:
         print(name)
         print_non_pruned_performance(training_set, test_set)
